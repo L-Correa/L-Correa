@@ -1,4 +1,4 @@
-# My name is Lucas, and welcome to my GitHub 😊
+# My name is Lucas, and welcome to my GitHub
 
 <div align="">
   <a href="https://github.com/L-Correa">
